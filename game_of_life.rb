@@ -1,4 +1,4 @@
-#Basic File
+#Base Game Logic
 
 #Start of Game class
 class Game
